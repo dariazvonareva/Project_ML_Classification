@@ -1,19 +1,20 @@
-# Booking reviews. Определение клиентов, склонных к открытию депозита в банке
+# Определение клиентов, склонных к открытию депозита в банке
 ## Оглавление
-[1. Описание проекта](https://github.com/dariazvonareva/Project_3_EDA_Booking_reviews/blob/main/README.md#Описание-проекта)
+[1. Описание проекта](https://github.com/dariazvonareva/Project_ML_Classification/blob/main/README.md#Описание-проекта)
 
-[2. Какой кейс решаем](https://github.com/dariazvonareva/Project_3_EDA_Booking_reviews/blob/main/README.md#Описание-проекта)
+[2. Какой кейс решаем](https://github.com/dariazvonareva/Project_ML_Classification/blob/main/README.md#Описание-проекта)
 
-[3. Краткая информация о данных](https://github.com/dariazvonareva/Project_3_EDA_Booking_reviews/blob/main/README.md#Описание-проекта)
+[3. Краткая информация о данных](https://github.com/dariazvonareva/Project_ML_Classification/blob/main/README.md#Описание-проекта)
 
-[4. Этапы проекта](https://github.com/dariazvonareva/Project_3_EDA_Booking_reviews/blob/main/README.md#Этапы-проекта)
+[4. Этапы проекта](https://github.com/dariazvonareva/Project_ML_Classification/blob/main/README.md#Этапы-проекта)
 
-[5. Результат](https://github.com/dariazvonareva/Project_3_EDA_Booking_reviews/blob/main/README.md#Результаты)
+[5. Результат](https://github.com/dariazvonareva/Project_ML_Classification/blob/main/README.md#Результаты)
 
 ### Описание проекта
 Вам предоставили данные о последней маркетинговой кампании, которую проводил банк: задачей было привлечь клиентов для открытия депозита. Вы должны проанализировать эти данные, выявить закономерность и найти решающие факторы, повлиявшие на то, что клиент вложил деньги именно в этот банк. Если вы сможете это сделать, то поднимете доходы банка и поможете понять целевую аудиторию, которую необходимо привлекать путём рекламы и различных предложений.
+https://github.com/dariazvonareva/Project_ML_Classification.git
 
-:arrow_up:[к оглавлению](https://github.com/dariazvonareva/Project_3_EDA_Booking_reviews/blob/main/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/dariazvonareva/Project_ML_Classification/blob/main/README.md#Оглавление)
 
 ### Какой кейс решаем
 
@@ -78,5 +79,6 @@
 - Выявлены признаки с наибольшим влиянием на исход маркетинговой кампании. 
 - Построение успешной модели классификации. Сравнение эффективности различных моделей. 
 
-[Ноутбук с выполненными заданиями и выводами](https://github.com/dariazvonareva/Project_3_EDA_Booking_reviews/blob/main/project-3-hotels-eda-feature-engineering.ipynb)
-:arrow_up:[к оглавлению](https://github.com/dariazvonareva/Project_3_EDA_Booking_reviews/blob/main/README.md#Оглавление)
+[Ноутбук с выполненными заданиями и выводами](https://github.com/dariazvonareva/Project_ML_Classification/blob/main/Project_4_ML.ipynb)
+
+:arrow_up:[к оглавлению](https://github.com/dariazvonareva/Project_ML_Classification/blob/main/README.md#Оглавление)
